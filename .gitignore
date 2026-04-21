@@ -1,0 +1,12 @@
+﻿# Obsidian workspace files
+.obsidian/workspace*
+.obsidian/cache/
+
+# Sensitive info
+*.api-key
+*.env
+*_backup
+
+# OS files
+.DS_Store
+Thumbs.db

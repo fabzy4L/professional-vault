@@ -1,0 +1,18 @@
+Smart workflow. Obsidian as the single source of truth, Gemini to reconcile LinkedIn with the new framing, then render to something visually polished for applications. That's clean.
+
+A few things worth having ready when you sit down Saturday:
+
+**In the markdown file, capture now while it's fresh:**
+- The two bullets above (dock rate + full-stack system)
+- The Thrive automation bullet
+- The "15 PAs trained, 9 concurrent" number
+- The Invent & Simplify reframe narrative (gap identified → bridge built → org caught up)
+- The FORTE strengths verbatim (Ownership, Deliver Results, Dive Deep, Insist on Highest Standards) — these map directly to LP language if you ever need a promo doc later
+
+**When you run LinkedIn through Gemini**, the prompt that'll get the best reconciliation is something like: *"Here is my LinkedIn and here are revised bullets from a consultant. Reconcile them into a single Amazon Operations Manager block that leads with metrics, uses GMP/regulated ops framing where appropriate, and positions me for Director/VP roles in biopharma manufacturing. Do not use Amazon internal jargon."*
+
+That "do not use Amazon internal jargon" line matters — Robins, ARtemis, VRETS, DCM mean nothing outside the building.
+
+**The Tampermonkey piece** — when you get to your PC, drop a quick description of what those scripts actually do. That's the one piece I don't have full context on yet, and it might be the sharpest proof-of-work artifact in the whole stack since it shows you automated at the browser layer where most ops managers just click through manually.
+
+Everything else is in place. Go enjoy the rest of today.

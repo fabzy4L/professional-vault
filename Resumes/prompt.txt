@@ -1,0 +1,58 @@
+Create a Director/VP-level biopharma resume using this old format as reference, but with major repositioning:
+
+CURRENT SITUATION:
+- Now: Operations Manager II at Amazon, Savannah GA (2023-present)
+  - Manage 40+ team members on compressed 4-day schedule
+  - 99.7% quality compliance in high-volume fulfillment
+  - Implemented Python automation for labor forecasting
+- Previous roles as shown in uploaded PDF
+
+TARGET ROLES:
+Director/VP Operations at cell therapy, gene therapy, tissue engineering companies
+
+MAJOR CHANGES NEEDED:
+
+1. HEADER: Change "SCIENTIST | ENGINEER" to "OPERATIONS LEADER | REGULATED ENVIRONMENTS | BIOMANUFACTURING"
+
+2. ADD EXECUTIVE SUMMARY (2-3 sentences):
+"Operations leader with PhD in biomedical engineering and proven track record scaling regulated processes. Currently managing 40+ team operations at Amazon with 99.7% quality compliance. Deep expertise in CLIA/COLA-regulated environments, GMP-adjacent operations, and automation—bridging scientific rigor with operational excellence for biomanufacturing scale-up."
+
+3. CORE COMPETENCIES SECTION (replace granular skills):
+- Regulated Operations (CLIA, COLA, GMP-adjacent)
+- Team Leadership & Development (40+ direct reports)
+- Quality Systems & Compliance
+- Process Optimization & Lean Manufacturing
+- Automation & Data Analytics (Python, R, SQL)
+- Cross-functional Collaboration
+- Scientific & Technical Depth (PhD, 8 publications)
+
+4. EXPERIENCE - ADD AMAZON (most recent):
+
+**Operations Manager II | Amazon | Savannah, GA | 2023-Present**
+- Manage operations team of 40+ across compressed 4-day schedule in high-volume fulfillment environment, maintaining 99.7% quality compliance
+- Implemented Python-based labor forecasting models, reducing variance and optimizing resource allocation
+- Led cross-functional process improvement initiatives, achieving [X]% efficiency gains through Lean methodologies
+- Established quality control protocols and KPI dashboards for real-time performance monitoring
+- Developed team training programs improving onboarding efficiency by [X]%
+
+5. REFRAME ALL OTHER EXPERIENCE for ops leadership:
+- WTPI: Emphasize "Oversaw Clinical Laboratory Testing of 1300+ monthly samples" + "leading a team of 9" + regulatory compliance
+- TTUHSCEP: Highlight "Led iPSC reprogramming project" + "cGMP compliance" + biobanking operations
+- IMSTEL: Focus on "Mentored 30 students" + cross-functional collaboration + project management
+
+6. CONDENSE PUBLICATIONS: 
+Just say "8 peer-reviewed publications in biomaterials, tissue engineering, and neuropsychiatry (available upon request)"
+
+7. REMOVE OR MINIMIZE:
+- Projects section (integrate into experience if needed)
+- Certifications (move to end or remove non-critical ones)
+
+8. FORMAT:
+- Professional, ATS-friendly
+- Clean headers, standard fonts
+- Metrics/numbers bolded
+- 2 pages maximum
+
+OUTPUT: Save as "Fabian_Lopez_Director_Ops_Biopharma.docx"
+
+Make it ready to send to VP Ops / Director Manufacturing roles TODAY.
