@@ -2,7 +2,13 @@
 title: Fabian_Alvarez_Director_Ops_Biopharma
 date: 2026-04-20
 target_role: Director/VP Operations – Cell Therapy, Gene Therapy, Biomanufacturing
-tags: [resume, operations, biopharma, director, vp]
+tags:
+  - resume
+  - operations
+  - biopharma
+  - director
+  - vp
+aliases:
 ---
 
 # FABIAN ALVAREZ-PRIMO
@@ -15,17 +21,17 @@ Savannah, GA · +1 (915) 603-2117 · fpalvarez23@gmail.com
 
 ## Executive Summary
 
-Operations leader with PhD in biomedical engineering and proven track record scaling regulated processes. Currently managing **40+ team** operations at Amazon with **99.7% quality compliance**. Deep expertise in CLIA/COLA-regulated environments, GMP-adjacent operations, and automation—bridging scientific rigor with operational excellence for biomanufacturing scale-up.
+Operations leader with PhD in biomedical engineering and proven track record scaling regulated processes. Currently managing **60+ team** operations at Amazon with **99.7% quality compliance**. Deep expertise in CLIA/COLA-regulated environments, GMP-adjacent operations, and automation—bridging scientific rigor with operational excellence for biomanufacturing scale-up.
 
 ---
 
 ## Core Competencies
 
-| | | |
-|---|---|---|
-| Regulated Operations (CLIA, COLA, GMP-adjacent) | Team Leadership & Development (40+ Direct Reports) | Quality Systems & Compliance |
-| Process Optimization & Lean Manufacturing | Automation & Data Analytics (Python, R, SQL) | Cross-functional Collaboration |
-| Scientific & Technical Depth (PhD, 8 Publications) | Biomanufacturing Scale-up & cGMP Processes | KPI Development & Performance Monitoring |
+|                                                    |                                                    |                                          |
+| -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------- |
+| Regulated Operations (CLIA, COLA, GMP-adjacent)    | Team Leadership & Development (40+ Direct Reports) | Quality Systems & Compliance             |
+| Process Optimization & Lean Manufacturing          | Automation & Data Analytics (Python, R, SQL)       | Cross-functional Collaboration           |
+| Scientific & Technical Depth (PhD, 8 Publications) | Biomanufacturing Scale-up & cGMP Processes         | KPI Development & Performance Monitoring |
 
 ---
 
