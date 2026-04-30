@@ -37,7 +37,7 @@ Operations leader with PhD in biomedical engineering and proven track record sca
 
 ## Professional Experience
 
-### Operations Manager II | Amazon | Savannah, GA | 2023 – Present
+### Operations Manager II | Amazon | Savannah, GA | 2024 – Present
 
 - Manage operations team of **60+ associates** across a compressed 4-day schedule in a high-volume fulfillment environment, maintaining **99.7% quality compliance**.
 - Implemented Python-based labor forecasting models, reducing scheduling variance and optimizing resource allocation across shifts.
@@ -78,13 +78,6 @@ Operations leader with PhD in biomedical engineering and proven track record sca
 - Led multi-year R&D project designing electrically conductive cardiovascular tissue composites for cell therapy applications, in collaboration with Rice University.
 - Managed cross-functional lab operations—coordinating equipment schedules, reagent procurement, SOPs, and data management across **5+ concurrent projects**.
 - Achieved **30% improvement** in 3D printer manufacturing precision through hardware modifications.
-
----
-
-### Chief Scientific Officer & Co-Founder | Biosvelte (Biotech Startup) | El Paso, TX | 2018 – 2020
-
-- Co-founded and scaled biotech venture; managed team of **10** overseeing product development, QC, and distribution of evidence-based health supplement line.
-- Applied data mining and analytics to optimize marketing strategy and supply chain operations.
 
 ---
 
