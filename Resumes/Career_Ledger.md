@@ -52,6 +52,7 @@ Consolidates and reconciles facts previously scattered across `Amazon_Role_Conte
 | Dock rate improvement | 82% (220 → 400+ units/hr) |
 | Recirculation reduction | 5% → <2% |
 | PAs trained | 15 total, 9 concurrent |
+| New leaders developed (Amazon) | 8 (Fabian, 2026-10-18; supersedes "2" from Oct 2025 Thrive) |
 | DPMO beat vs. goal | 5,291 vs. 7,500 goal (29% better), Jan–Apr 2026 |
 | AR COS Penetration | 92.6%–94.4% vs. 90% goal |
 | Serious Incident Rate (SIR) | 0.0% sustained 9+ consecutive months |

@@ -20,18 +20,18 @@ Savannah, GA · +1 (915) 603-2117 · fpalvarez23@gmail.com · linkedin.com/in/fp
 
 ## Summary
 
-Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in failure analysis, materials characterization, and manufacturing hardware. Has deliberately built a second core strength: leading people under pressure. Took on a quota-driven, customer-facing role at DISH Network to sharpen communication and influence, then Amazon operations to lead large teams where safety and deadlines don't give. Now takes extreme ownership of a **60+ associate** high-volume material-flow operation: **99.7% quality compliance**, a **0.0% serious incident rate** for 9+ months, DPMO **29% better than goal**, and an **82% throughput increase**, driven by custom Python/SQL tooling built to find the bottleneck. Brings both to Starship: understands the hardware and the specs behind the material, and leads the team that keeps it flowing to the build.
+Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in failure analysis, materials characterization, and manufacturing hardware. Has deliberately built a second core strength: leading people under pressure. Took on Amazon operations to lead large teams where quality, safety and deadlines don't give. Now takes extreme ownership of a **60+ associate** high-volume material-flow operation: **99.7% quality compliance**, a **0.0% serious incident rate** for 9+ months, DPMO **29% better than goal**, and an **82% throughput increase**, driven by custom engineered Python/SQL/JS tooling built to find the bottleneck. Brings both to Starship: understands the hardware and the specs behind the material, and leads the team that keeps it flowing to the build.
 
 ---
 
 ## Technical Skills
 
-- **Operations & material flow:** receipt-to-delivery flow design, inventory and location accuracy, labor and capacity planning, lean and standard work, root cause and corrective action, KPI design and dashboards
-- **Quality & safety systems:** CLIA/COLA, cGMP, ISO 9001, ASTM; controlled documentation, chain of custody, audit readiness; OSHA enforcement and safety-barrier programs
-- **Metallurgy & materials:** physical metallurgy and alloys, metals processing, hands-on metal casting, corrosion, mechanical behavior of materials, shelf-life and storage-sensitive materials
-- **Failure analysis & testing:** SEM fractography, EDS, XRD, XRF, Raman/FTIR; tensile, compression, and creep testing to ASTM; TGA, DMA; test-method development
-- **Manufacturing & design:** additive manufacturing and 3D printer hardware, injection molding, extrusion; SolidWorks, Fusion 360, AutoCAD; SOPs and work instructions
-- **Software & data:** Python (pandas, scikit-learn, Streamlit), SQL, R, MATLAB, JavaScript (browser automation), Google Apps Script, Excel / Google Sheets (advanced), Tableau
+- **Operations & Material flow:** receipt-to-delivery flow design, inventory and location accuracy, labor and capacity planning, lean and standard work, root cause and corrective action, KPI design and dashboards
+- **Quality & Safety systems:** CLIA/COLA, cGMP, ISO 9001, ASTM; controlled documentation, chain of custody, audit readiness; OSHA enforcement and safety-barrier programs
+- **Metallurgy & Materials:** physical metallurgy and alloys, metals processing, hands-on metal casting, corrosion, mechanical behavior of materials, shelf-life and storage-sensitive materials
+- **Failure Analysis & Testing:** SEM fractography, EDS, XRD, XRF, Raman/FTIR; tensile, compression, and creep testing to ASTM; TGA, DMA; test-method development
+- **Manufacturing & Design:** additive manufacturing and 3D printer hardware, injection molding, extrusion; SolidWorks, Fusion 360, AutoCAD; SOPs and work instructions
+- **Software & Data:** Python (pandas, scikit-learn, Streamlit), SQL, R, MATLAB, JavaScript (browser automation), Google Apps Script, Excel / Google Sheets (advanced), Tableau
 
 ---
 
@@ -41,14 +41,14 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 
 *Chose high-volume operations to lead large teams in a high-stakes, high-pressure environment: hard hourly departure deadlines, heavy equipment, and zero tolerance on safety.*
 
-- Own outbound dock operations (on-time departures, shipping-sorter recirculation); prior scope covered upper mezzanine, transship, vendor returns, and shipping sort. Lead a **60+ associate** team across a compressed 4-day schedule at **99.7% quality compliance**.
-- Raised dock rate **82% (220 → 400+ units/hr)** and cut recirculation from **5% to below 2%**. Treated the dock as an engineering system: instrumented it, found the chute-level constraints, and redesigned staffing and material paths around them.
+- Own outbound dock operations (Container Management Outbound Flow); prior scope covered Amazon Robotics Floor, transshipment, vendor returns, and shipping sort. Lead a **60+ associate** team across a compressed 4-day schedule at **99.7% quality compliance**.
+- Raised dock rate **82% (220 → 400+ units/labor hrs)** and cut recirculation from **5% to below 2%**. Treated the dock as an engineering system: instrumented it, found the chute-level constraints, and redesigned staffing and material paths around them.
 - Built a container-to-physical-location staging audit tool that maps material to its location, reducing missed packages and DPMO risk.
 - Engineered a three-layer flow-visibility system (browser-automation scraper of live WIP data, a real-time analytics layer for root causes, staffing ratios, DPMO and hourly throughput, and a staffing/rate tool), replacing manual workflows and enabling proactive labor deployment.
 - Sustained a **0.0% Serious Incident Rate for 9+ consecutive months**; run daily barrier sweeps and safety-reporting mechanisms on shift.
 - Beat the DPMO goal by **29% (5,291 vs. 7,500)** and held AR COS penetration at **92.6–94.4% vs. a 90% goal**.
 - Stood up Vendor Returns operations from scratch: wrote the process, set the standard work, and trained the team.
-- Developed **15 Process Assistants** (up to **9 concurrently**) and **2 new leaders** into full role ownership. Ran Ship Dock and the DEA team while the Operations Manager was absent, and was selected to lead a best-practice share-out for peer Area Managers on stand-ups, real-time feedback, and building trust.
+- Developed **15 Process Assistants** (up to **9 concurrently**) and **8 new leaders** into full role ownership. Ran Ship Dock and the DEA team while the Operations Manager was absent, and was selected to lead a best-practice share-out for peer Area Managers on stand-ups, real-time feedback, and building trust.
 
 ### Account Executive | DISH Network | 2023 – 2024
 
@@ -59,8 +59,9 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 
 ### Post-doctoral Research Fellow | Texas Tech University Health Sciences Center | El Paso, TX | 2022 – 2022
 
-- Ran post-mortem biobanking research operations covering sample intake, processing, controlled storage, and chain-of-custody documentation.
-- Led a cell-reprogramming project under **cGMP-compliant** protocols; coordinated timelines and deliverables across clinical, molecular, and neuroscience teams.
+- Ran postmortem human brain biobanking operations and clinical research in neuropsychiatry with the Southwest Brain Bank and El Paso County Coroner's Office, covering specimen intake, processing, controlled storage, and chain-of-custody documentation.
+- Led a stem-cell reprogramming project under **cGMP-compliant** protocols and verified the integrity of stored tissue through follow-up culture testing.
+- Owned statistical analysis (R, Python) across concurrent studies and coordinated deliverables across clinical, molecular, and neuroscience teams; co-authored *Frontiers in Psychiatry* (2023).
 
 ### Clinical Laboratory Scientist & Supervisor | West Texas Pain Institute | El Paso, TX | 2021 – 2022
 
@@ -97,5 +98,5 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 > - **Narrative:** same framing as the Starship Build resume. The italic lines under Amazon and DISH state why you made each move. Each move added a skill; no pivot language.
 > - **Direct-report tenure vs. the Materials Management floor ("3+ yrs formal direct reports"):** WTPI 2021–2022 + Amazon 2024–present ≈ 3.2 yrs. Clears the bar, but only just.
 > - **No aerospace or AS9100 experience is claimed.** Quality evidence is CLIA/COLA/cGMP/ISO 9001; the Keck/Air Force composites work is the only aerospace-adjacent line.
-> - **New facts from Fabian (2026-10-18):** post-mortem biobanking (postdoc); WTPI throughput scaled 150%. Both now recorded in Career_Ledger.md.
+> - **New facts from Fabian (2026-10-18):** postmortem human brain biobanking (postdoc); WTPI throughput scaled 150%; 8 leaders developed at Amazon (supersedes the 2 from the Oct 2025 Thrive note). Both now recorded in Career_Ledger.md.
 > - **Not used:** the "AI-Driven Recirculation Tool" (authorship unverified, Ledger Open Item #2) and the CMAM tools (confidential).

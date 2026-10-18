@@ -21,7 +21,7 @@ Savannah, GA · +1 (915) 603-2117 · fpalvarez23@gmail.com · linkedin.com/in/fp
 
 ## Summary
 
-Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in failure analysis, materials characterization, and manufacturing hardware, who has deliberately built a second core strength: leading people under pressure. Took on a quota-driven, customer-facing role at DISH Network to sharpen communication and influence, then Amazon operations to lead large teams where safety and deadlines don't give. Now leads a **60+ associate** high-rate operation at **99.7% quality compliance**, a **0.0% serious incident rate** for 9+ months, and an **82% throughput increase**, still engineering custom Python/SQL tooling to find the bottleneck. Brings both to Starship: reads drawings, fracture surfaces, and data, and leads the floor that builds the hardware.
+Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in failure analysis, materials characterization, and manufacturing hardware, who has deliberately built a second core strength: leading people under pressure. Took on Amazon operations to lead large teams where quality, safety and deadlines don't give. Now leads a **60+ associate** high-rate operation at **99.7% quality compliance**, a **0.0% serious incident rate** for 9+ months, and an **82% throughput increase**, still engineering custom Python/SQL/JS tooling to find the bottleneck. Brings both to Starship: reads drawings, fracture surfaces, and data, and leads the floor that builds the hardware.
 
 ---
 
@@ -43,12 +43,12 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 *Chose high-volume operations to lead large teams in a high-stakes, high-pressure environment: hard hourly departure deadlines, heavy equipment, and zero tolerance on safety.*
 
 - Lead a **60+ associate** operation across a compressed 4-day schedule through Process Assistants and floor leads, holding **99.7% quality compliance** against hard departure schedules.
-- Raised throughput **82% (220 → 400+ units/hr)** and cut recirculation from **5% to below 2%**. Treated the dock as an engineering system: instrumented it, found the station-level constraints, and redesigned staffing and material paths around them.
+- Raised throughput **82% (220 → 400+ units/labor hr)** and cut recirculation from **5% to below 2%**. Treated the dock as an engineering system: instrumented it, found the station-level constraints, and redesigned staffing and material paths around them.
 - Engineered a three-layer flow-visibility system (browser-automation scraper of live WIP data, a real-time analytics layer for root causes, staffing ratios, DPMO and hourly throughput, and a staffing/rate tool), replacing manual workflows.
 - Built Python labor-forecasting models and a statistical performance tool (curve-fit throughput by process path) used in production for ~8 months to plan headcount and overtime and to remove subjectivity from reviews.
 - Sustained a **0.0% Serious Incident Rate for 9+ consecutive months**, and beat the DPMO goal by **29% (5,291 vs. 7,500)** by tracing defects to root cause and changing the process.
 - Stood up Vendor Returns operations from scratch: wrote the process, set the standard work, and trained the team.
-- Developed **15 Process Assistants** (up to **9 concurrently**) and **2 new leaders** into full role ownership. Ran Ship Dock and the DEA team while the Operations Manager was absent, and was selected to lead a best-practice share-out for peer Area Managers on stand-ups, real-time feedback, and building trust.
+- Developed **15 Process Assistants** (up to **9 concurrently**) and **8 new leaders** into full role ownership. Ran Ship Dock and the DEA team while the Operations Manager was absent, and was selected to lead a best-practice share-out for peer Area Managers on stand-ups, real-time feedback, and building trust.
 
 ### Account Executive | DISH Network | 2023 – 2024
 
@@ -59,7 +59,9 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 
 ### Post-doctoral Research Fellow | Texas Tech University Health Sciences Center | El Paso, TX | 2022 – 2022
 
-- Ran post-mortem biobanking research operations with controlled storage and chain-of-custody documentation; led a cell-reprogramming project under **cGMP-compliant** protocols across clinical, molecular, and neuroscience teams.
+- Ran postmortem human brain biobanking operations and clinical research in neuropsychiatry with the Southwest Brain Bank and El Paso County Coroner's Office, covering specimen intake, processing, controlled storage, and chain-of-custody documentation.
+- Led a stem-cell reprogramming project under **cGMP-compliant** protocols and verified the integrity of stored tissue through follow-up culture testing.
+- Owned statistical analysis (R, Python) across concurrent studies and coordinated deliverables across clinical, molecular, and neuroscience teams; co-authored *Frontiers in Psychiatry* (2023).
 
 ### Clinical Laboratory Scientist & Supervisor | West Texas Pain Institute | El Paso, TX | 2021 – 2022
 
@@ -93,8 +95,6 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 **Ph.D., Materials Science & Engineering** | The University of Texas at El Paso | 2020 | GPA 3.91
 
 **B.S., Metallurgical & Materials Engineering** | The University of Texas at El Paso | 2015
-
-Coursework: physical metallurgy, metals processing, metal materials design, failure analysis, structural characterization, mechanical behavior of materials, corrosion, thermodynamics, rate processes.
 
 ## Publications & Honors
 
