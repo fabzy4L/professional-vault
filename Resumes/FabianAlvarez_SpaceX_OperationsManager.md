@@ -26,29 +26,30 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 
 ## Technical Skills
 
-- **Operations & Material flow:** receipt-to-delivery flow design, inventory and location accuracy, labor and capacity planning, lean and standard work, root cause and corrective action, KPI design and dashboards
-- **Quality & Safety systems:** CLIA/COLA, cGMP, ISO 9001, ASTM; controlled documentation, chain of custody, audit readiness; OSHA enforcement and safety-barrier programs
+- **Operations & Material Flow:** receipt-to-delivery flow design, inventory and location accuracy, labor and capacity planning, lean and standard work, root cause and corrective action, KPI design and dashboards
+- **Quality & Safety Systems:** CLIA/COLA, cGMP, ISO 9001, ASTM; controlled documentation, chain of custody, audit readiness; OSHA enforcement and safety-barrier programs
 - **Metallurgy & Materials:** physical metallurgy and alloys, metals processing, hands-on metal casting, corrosion, mechanical behavior of materials, shelf-life and storage-sensitive materials
 - **Failure Analysis & Testing:** SEM fractography, EDS, XRD, XRF, Raman/FTIR; tensile, compression, and creep testing to ASTM; TGA, DMA; test-method development
 - **Manufacturing & Design:** additive manufacturing and 3D printer hardware, injection molding, extrusion; SolidWorks, Fusion 360, AutoCAD; SOPs and work instructions
 - **Software & Data:** Python (pandas, scikit-learn, Streamlit), SQL, R, MATLAB, JavaScript (browser automation), Google Apps Script, Excel / Google Sheets (advanced), Tableau
+- **Languages:** English, Spanish (native)
 
 ---
 
 ## Professional Experience
 
-### Operations Manager II (Area Manager, L5) | Amazon | Savannah, GA | 2024 – Present
+### Operations Manager II, L5 | Amazon | Savannah, GA | 2024 – Present
 
 *Chose high-volume operations to lead large teams in a high-stakes, high-pressure environment: hard hourly departure deadlines, heavy equipment, and zero tolerance on safety.*
 
-- Own outbound dock operations (Container Management Outbound Flow); prior scope covered Amazon Robotics Floor, transshipment, vendor returns, and shipping sort. Lead a **60+ associate** team across a compressed 4-day schedule at **99.7% quality compliance**.
+- Own Outbound Dock operations (Container Management Outbound Flow); prior scope covered Amazon Robotics Floor, transshipment, vendor returns, and shipping sort. Lead a **60+ associate** team across a compressed 4-day schedule at **99.7% quality compliance**.
 - Raised dock rate **82% (220 → 400+ units/labor hrs)** and cut recirculation from **5% to below 2%**. Treated the dock as an engineering system: instrumented it, found the chute-level constraints, and redesigned staffing and material paths around them.
 - Built a container-to-physical-location staging audit tool that maps material to its location, reducing missed packages and DPMO risk.
 - Engineered a three-layer flow-visibility system (browser-automation scraper of live WIP data, a real-time analytics layer for root causes, staffing ratios, DPMO and hourly throughput, and a staffing/rate tool), replacing manual workflows and enabling proactive labor deployment.
 - Sustained a **0.0% Serious Incident Rate for 9+ consecutive months**; run daily barrier sweeps and safety-reporting mechanisms on shift.
 - Beat the DPMO goal by **29% (5,291 vs. 7,500)** and held AR COS penetration at **92.6–94.4% vs. a 90% goal**.
 - Stood up Vendor Returns operations from scratch: wrote the process, set the standard work, and trained the team.
-- Developed **15 Process Assistants** (up to **9 concurrently**) and **8 new leaders** into full role ownership. Ran Ship Dock and the DEA team while the Operations Manager was absent, and was selected to lead a best-practice share-out for peer Area Managers on stand-ups, real-time feedback, and building trust.
+- Developed **15 Process Assistants** (up to **9 concurrently**) and **8 new leaders** into full role ownership.
 
 ### Account Executive | DISH Network | 2023 – 2024
 
@@ -98,5 +99,14 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 > - **Narrative:** same framing as the Starship Build resume. The italic lines under Amazon and DISH state why you made each move. Each move added a skill; no pivot language.
 > - **Direct-report tenure vs. the Materials Management floor ("3+ yrs formal direct reports"):** WTPI 2021–2022 + Amazon 2024–present ≈ 3.2 yrs. Clears the bar, but only just.
 > - **No aerospace or AS9100 experience is claimed.** Quality evidence is CLIA/COLA/cGMP/ISO 9001; the Keck/Air Force composites work is the only aerospace-adjacent line.
-> - **New facts from Fabian (2026-10-18):** postmortem human brain biobanking (postdoc); WTPI throughput scaled 150%; 8 leaders developed at Amazon (supersedes the 2 from the Oct 2025 Thrive note). Both now recorded in Career_Ledger.md.
+> - **New facts from Fabian (2026-10-18):** postmortem human brain biobanking (postdoc); WTPI throughput scaled 150%; 8 leaders developed at Amazon (supersedes the 2 from the Oct 2025 Thrive note). All three are recorded in Career_Ledger.md.
 > - **Not used:** the "AI-Driven Recirculation Tool" (authorship unverified, Ledger Open Item #2) and the CMAM tools (confidential).
+
+> **Revision log (stripped from PDF):**
+> - 2026-10-18: created from the SpaceX ops-manager JD template; Starbase-anchored (Materials Management).
+> - 2026-10-18: job dates changed to years only; "relocating to TX" removed; DISH Network 2023–2024 added (">95% of company average" dropped).
+> - 2026-10-18: aligned with the Starship Build framing (headline "Materials Engineer & Operations Manager", deliberate-path summary, Technical Skills section, italic "why" lines, Keck role added).
+> - 2026-10-18 (Fabian's edits): DISH removed from summary; Amazon scope renamed (Container Management Outbound Flow, Amazon Robotics Floor); units/labor hr; Python/SQL/JS; 8 new leaders (was 2); WTPI 150% scale-up; postmortem human brain biobanking.
+> - 2026-10-18: postdoc expanded, then trimmed to 3 plain-language bullets.
+> - 2026-10-18: added Languages: English, Spanish (native).
+> - 2026-10-18 (Fabian's edits): title now "Operations Manager II, L5" (Area Manager dropped); Ship Dock/DEA coverage and peer share-out sentence removed from the leaders bullet.

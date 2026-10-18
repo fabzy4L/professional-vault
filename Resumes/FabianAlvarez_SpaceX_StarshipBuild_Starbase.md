@@ -33,22 +33,23 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 - **Manufacturing & design:** additive manufacturing and 3D printer hardware, injection molding, extrusion; SolidWorks, Fusion 360, AutoCAD; FEA (FEniCS); SOPs and work instructions
 - **Production systems:** lean and standard work, root cause and corrective action, labor and capacity planning, KPI design, quality control (CLIA/COLA, cGMP, ISO 9001)
 - **Software & data:** Python (pandas, scikit-learn, Streamlit), SQL, R, MATLAB, JavaScript (browser automation), Excel / Google Sheets (advanced), Tableau
+- **Languages:** English, Spanish (native)
 
 ---
 
 ## Professional Experience
 
-### Operations Manager II (Area Manager, L5) | Amazon | Savannah, GA | 2024 – Present
+### Operations Manager II, L5 | Amazon | Savannah, GA | 2024 – Present
 
 *Chose high-volume operations to lead large teams in a high-stakes, high-pressure environment: hard hourly departure deadlines, heavy equipment, and zero tolerance on safety.*
 
-- Lead a **60+ associate** operation across a compressed 4-day schedule through Process Assistants and floor leads, holding **99.7% quality compliance** against hard departure schedules.
-- Raised throughput **82% (220 → 400+ units/labor hr)** and cut recirculation from **5% to below 2%**. Treated the dock as an engineering system: instrumented it, found the station-level constraints, and redesigned staffing and material paths around them.
+- Own Outbound Dock operations (Container Management Outbound Flow); prior scope covered Amazon Robotics Floor, transshipment, vendor returns, and shipping sort. Lead a **60+ associate** team across a compressed 4-day schedule at **99.7% quality compliance** against hard departure schedules.
+- Raised throughput **82% (220 → 400+ units/labor hrs)** and cut recirculation from **5% to below 2%**. Treated the dock as an engineering system: instrumented it, found the station-level constraints, and redesigned staffing and material paths around them.
 - Engineered a three-layer flow-visibility system (browser-automation scraper of live WIP data, a real-time analytics layer for root causes, staffing ratios, DPMO and hourly throughput, and a staffing/rate tool), replacing manual workflows.
 - Built Python labor-forecasting models and a statistical performance tool (curve-fit throughput by process path) used in production for ~8 months to plan headcount and overtime and to remove subjectivity from reviews.
 - Sustained a **0.0% Serious Incident Rate for 9+ consecutive months**, and beat the DPMO goal by **29% (5,291 vs. 7,500)** by tracing defects to root cause and changing the process.
 - Stood up Vendor Returns operations from scratch: wrote the process, set the standard work, and trained the team.
-- Developed **15 Process Assistants** (up to **9 concurrently**) and **8 new leaders** into full role ownership. Ran Ship Dock and the DEA team while the Operations Manager was absent, and was selected to lead a best-practice share-out for peer Area Managers on stand-ups, real-time feedback, and building trust.
+- Developed **15 Process Assistants** (up to **9 concurrently**) and **8 new leaders** into full role ownership.
 
 ### Account Executive | DISH Network | 2023 – 2024
 
@@ -106,5 +107,14 @@ Metallurgical and materials engineer (B.S., Ph.D., UTEP) with deep expertise in 
 > - **Scale gap:** the posting is 40+ per shift, up to 120 across 2 shifts. Amazon is 60+.
 > - **Preferred items not held:** SpaceX experience, harness/wiring-diagram experience, safety certifications. OSHA 30 would close the last one cheaply.
 > - **Physical/site requirements:** work at heights up to 500 ft, confined spaces, respirator, all shifts, Air Force background checks.
-> - **Length:** now denser; build the PDF and check it fits 2 pages. First cuts if long: Postdoc bullet, Engineering Projects, Coursework line.
+> - **Length:** fits 2 pages. Next cut if it grows: Engineering Projects.
 > - **Not used:** "AI-Driven Recirculation Tool" (authorship unverified) and CMAM tools (confidential).
+
+> **Revision log (stripped from PDF):**
+> - 2026-10-18: created for Manager, Starship Build (Starbase, req 8555720002).
+> - 2026-10-18: reframed around engineering depth and the deliberate DISH/Amazon path; Technical Skills section, Keck role, and Engineering Projects added; "turned" headline removed (now "Materials Engineer & Production Leader").
+> - 2026-10-18: ">95% of company average" dropped; coursework line cut to hold 2 pages.
+> - 2026-10-18 (synced from Fabian's ops-resume edits): DISH removed from summary; units/labor hr; Python/SQL/JS; 8 new leaders (was 2); WTPI 150% scale-up; postmortem human brain biobanking.
+> - 2026-10-18: postdoc expanded, then trimmed to 3 plain-language bullets.
+> - 2026-10-18: added Languages: English, Spanish (native).
+> - 2026-10-18 (synced from Fabian's ops-resume edits): title now "Operations Manager II, L5"; Amazon scope line added (Container Management Outbound Flow, Amazon Robotics Floor); units/labor hrs; Ship Dock/DEA coverage and peer share-out sentence removed.

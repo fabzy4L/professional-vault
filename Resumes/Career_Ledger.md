@@ -19,6 +19,7 @@ Consolidates and reconciles facts previously scattered across `Amazon_Role_Conte
 - **Phone:** +1 (915) 603-2117
 - **LinkedIn:** linkedin.com/in/fpalvarez23
 - **GitHub:** github.com/fabzy4L
+- **Languages:** English, Spanish (native) (Fabian, 2026-10-18)
 
 ---
 
@@ -31,7 +32,7 @@ Consolidates and reconciles facts previously scattered across `Amazon_Role_Conte
 | Mar 2021 – Apr 2022 | Clinical Laboratory Scientist / Manager | West Texas Pain Institute (WTPI) | Confirmed |
 | May 2022 – Nov 2022 | Neuropsychiatry Postdoctoral Fellow | TTUHSCEP | Confirmed (was previously miswritten as "2022–2023" in older resume variants — 7 months is the correct, better-supported span) |
 | **2023–2024** | **Account Executive, DISH Network** | DISH Network | ⚠ **OPEN — see Open Items #1.** Not on any current resume/CV. Fills what is otherwise an unexplained ~1-year gap between TTUHSCEP and Amazon. |
-| ~Sept 2024 – Present | Operations Manager II / Area Manager, L5 | Amazon (SAV4, Savannah GA) | Confirmed |
+| ~Sept 2024 – Present | Operations Manager II / Area Manager, L5 | Amazon (SAV4, Savannah GA) | Confirmed. Resume display title (Fabian, 2026-10-18): "Operations Manager II, L5"; scope names: Outbound Dock (Container Management Outbound Flow), prior Amazon Robotics Floor, transshipment, vendor returns, shipping sort |
 
 ---
 
