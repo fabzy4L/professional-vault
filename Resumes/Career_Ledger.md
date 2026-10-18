@@ -117,7 +117,7 @@ Tiered by strength, verified against actual git history and code, not README cla
 
 Consolidated from every reconciliation note found across this workspace. Nothing here should be silently resolved by picking a version — confirm before it appears in a submitted document.
 
-1. **DISH Network 2023–2024 gap.** Decide whether to include this role. Leaving it out currently creates an unexplained ~1-year gap between the TTUHSCEP postdoc and Amazon.
+1. ~~**DISH Network 2023–2024 gap.**~~ **Resolved 2026-10-18: include** (Fabian's decision). First used in `FabianAlvarez_SpaceX_OperationsManager.md`. Still needed: exact start/end months.
 2. **"Custom AI-Driven Recirculation Tool" claim.** Currently stated as fact in the official Q2 2026 Amazon Growth Plan (internal HR doc). GitHub evidence suggests it may be a colleague's tool. Worth clarifying directly with Amazon before it resurfaces in a promotion review, independent of any resume use.
 3. **Full publication list.** Need citations (author position, venue, year) for all 7. Blocks the academic-track (GATech-style) push specifically, and any resume claim more detailed than "7 peer-reviewed publications."
 4. **Under-review manuscript status.** ~5 years stale — confirm current status or drop the mention entirely.

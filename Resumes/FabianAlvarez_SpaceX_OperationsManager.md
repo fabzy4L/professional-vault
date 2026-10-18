@@ -13,7 +13,7 @@ tags:
 
 **OPERATIONS MANAGER | HIGH-VOLUME MATERIAL FLOW | SAFETY, QUALITY & CONTINUOUS IMPROVEMENT**
 
-Savannah, GA (relocating to Starbase, TX) · +1 (915) 603-2117 · fpalvarez23@gmail.com · linkedin.com/in/fpalvarez23 · U.S. Citizen
+Savannah, GA · +1 (915) 603-2117 · fpalvarez23@gmail.com · linkedin.com/in/fpalvarez23 · U.S. Citizen
 
 ---
 
@@ -35,7 +35,7 @@ Operations Manager who takes extreme ownership of high-volume material flow. Cur
 
 ## Professional Experience
 
-### Operations Manager II (Area Manager, L5) | Amazon | Savannah, GA | Sep 2024 – Present
+### Operations Manager II (Area Manager, L5) | Amazon | Savannah, GA | 2024 – Present
 
 Owns outbound dock operations (on-time departures, shipping-sorter recirculation). Prior scope covered upper mezzanine, transship, vendor returns, and shipping sort.
 
@@ -49,12 +49,17 @@ Owns outbound dock operations (on-time departures, shipping-sorter recirculation
 - Developed **15 Process Assistants** (up to **9 concurrently**) and **2 new leaders** into full role ownership. Trained the Operations Manager and Area Managers on shift procedures, and ran Ship Dock and the DEA team while the Operations Manager was absent.
 - Built a Python/statistical performance-review tool (curve-fit throughput by process path) that removes subjectivity from write-ups; in production use for ~8 months.
 
-### Post-doctoral Research Fellow | Texas Tech University Health Sciences Center | El Paso, TX | May 2022 – Nov 2022
+### Account Executive | DISH Network | 2023 – 2024
+
+- Built Tableau analytics to drive customer-retention strategy.
+- Won a company-wide award for the highest contracts sold during training; promoted to Account Executive, performing at >95% of company average.
+
+### Post-doctoral Research Fellow | Texas Tech University Health Sciences Center | El Paso, TX | 2022 – 2022
 
 - Ran biobanking operations covering sample intake, processing, controlled storage, and chain-of-custody documentation.
 - Led a cell-reprogramming project under **cGMP-compliant** protocols. Coordinated timelines and deliverables across clinical, molecular, and neuroscience teams.
 
-### Clinical Laboratory Scientist & Supervisor | West Texas Pain Institute | El Paso, TX | Mar 2021 – Apr 2022
+### Clinical Laboratory Scientist & Supervisor | West Texas Pain Institute | El Paso, TX | 2021 – 2022
 
 - Supervised a team of **9** processing **1,300+ patient samples per month**, with full **CLIA and COLA** compliance and audit readiness.
 - Enforced OSHA protocols and documentation discipline. Operated and maintained LC/MS, immunoassay, and DNA sequencing instrumentation.
@@ -66,7 +71,7 @@ Owns outbound dock operations (on-time departures, shipping-sorter recirculation
 - Mentored **30+ students** on scanning electron microscopy and 3D printing. Improved 3D printer manufacturing precision **30%** through hardware modifications.
 - Developed and characterized a conductive composite following ASTM and **ISO 9001** standards. Co-authored a failure analysis study (*Journal of Failure Analysis and Prevention*, 2019).
 
-### R&D Engineer Intern | Climax Molybdenum | Sahuarita, AZ | Summer 2015
+### R&D Engineer Intern | Climax Molybdenum | Sahuarita, AZ | 2015 – 2015
 
 - Developed ASTM test methods for a refractory ceramic in leaching-vessel service and wrote the material-handling SOP.
 
@@ -91,6 +96,5 @@ Python (pandas, scikit-learn, Streamlit) · SQL · R · Excel / Google Sheets (a
 > **Working notes (stripped from PDF):**
 > - **Direct-report tenure vs. the Materials Management floor ("3+ yrs formal direct reports"):** WTPI Mar 2021–Apr 2022 (~13 mo) + Amazon Sep 2024–present (~25 mo) ≈ 3.2 yrs. That clears the bar, but only just, so be ready to state it plainly if asked.
 > - **No aerospace or AS9100 experience is claimed.** Quality evidence is CLIA/COLA/cGMP/ISO 9001. The NDE Manager role prefers NDE Level II / CWI, which Fabian doesn't hold; the materials-science degree is the named alternative.
-> - **Open Items #1 (DISH Network 2023–2024 gap)** in Career_Ledger.md is still unresolved. This draft leaves the gap visible (Nov 2022 → Sep 2024).
+> - **DISH Network added 2026-10-18** (Ledger Open Item #1 resolved: include). Bullets come from the scientist-branded PDF resume via Amazon_Role_Context.md. Verify the ">95% of company average" wording.
 > - **Not used:** the "AI-Driven Recirculation Tool" (authorship unverified, Ledger Open Item #2) and the CMAM tools (confidential).
-> - The address line says "relocating to Starbase, TX"; delete it if you'd rather not state that.
