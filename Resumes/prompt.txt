@@ -1,58 +1,149 @@
-Create a Director/VP-level biopharma resume using this old format as reference, but with major repositioning:
+Read CLAUDE.md, FabianPrimoResume2026.md, PROJECT_PORTFOLIO.md, 
+and PORTFOLIO_REVIEW.md before making any changes. Understand the 
+full candidate positioning and workspace rules first.
 
-CURRENT SITUATION:
-- Now: Operations Manager II at Amazon, Savannah GA (2023-present)
-  - Manage 40+ team members on compressed 4-day schedule
-  - 99.7% quality compliance in high-volume fulfillment
-  - Implemented Python automation for labor forecasting
-- Previous roles as shown in uploaded PDF
+Create two new files:
 
-TARGET ROLES:
-Director/VP Operations at cell therapy, gene therapy, tissue engineering companies
+════════════════════════════════════════
+FILE 1: FabianAlvarez_Upwork_FreelanceProfile.md
+════════════════════════════════════════
 
-MAJOR CHANGES NEEDED:
+Copy from FabianPrimoResume2026.md. Do not touch the master.
 
-1. HEADER: Change "SCIENTIST | ENGINEER" to "OPERATIONS LEADER | REGULATED ENVIRONMENTS | BIOMANUFACTURING"
+Apply the following changes:
 
-2. ADD EXECUTIVE SUMMARY (2-3 sentences):
-"Operations leader with PhD in biomedical engineering and proven track record scaling regulated processes. Currently managing 40+ team operations at Amazon with 99.7% quality compliance. Deep expertise in CLIA/COLA-regulated environments, GMP-adjacent operations, and automation—bridging scientific rigor with operational excellence for biomanufacturing scale-up."
+FRONTMATTER:
+- title: "Fabian_Alvarez_Upwork_Freelance_Profile"
+- target_role: "Operations Systems Consultant | Automation & 
+  AI Engineering | Google Sheets, Python, GCP"
+- tags: freelance, upwork, automation, google-sheets, python, 
+  ai-engineering, biotech
 
-3. CORE COMPETENCIES SECTION (replace granular skills):
-- Regulated Operations (CLIA, COLA, GMP-adjacent)
-- Team Leadership & Development (40+ direct reports)
-- Quality Systems & Compliance
-- Process Optimization & Lean Manufacturing
-- Automation & Data Analytics (Python, R, SQL)
-- Cross-functional Collaboration
-- Scientific & Technical Depth (PhD, 8 publications)
+HEADLINE:
+"OPERATIONS SYSTEMS CONSULTANT | AI & AUTOMATION ENGINEER | 
+GOOGLE SHEETS · PYTHON · GCP · BIOTECH DOMAIN EXPERT"
 
-4. EXPERIENCE - ADD AMAZON (most recent):
+EXECUTIVE SUMMARY:
+Rewrite for a freelance client. 3–4 sentences. Lead with the 
+builder identity — someone who builds tools because they've 
+lived the ops problem. Surface: Google Sheets, Apps Script, 
+Python, GCP, AI pipelines. Reference the PhD as a differentiator, 
+not a lead. Do not write a traditional resume summary. 
+Tone: direct, practitioner-first, zero fluff.
 
-**Operations Manager II | Amazon | Savannah, GA | 2023-Present**
-- Manage operations team of 40+ across compressed 4-day schedule in high-volume fulfillment environment, maintaining 99.7% quality compliance
-- Implemented Python-based labor forecasting models, reducing variance and optimizing resource allocation
-- Led cross-functional process improvement initiatives, achieving [X]% efficiency gains through Lean methodologies
-- Established quality control protocols and KPI dashboards for real-time performance monitoring
-- Developed team training programs improving onboarding efficiency by [X]%
+SKILLS & TOOLS SECTION:
+Insert after Executive Summary, before Core Competencies.
+Two-column list. Include exactly:
+Google Sheets (Advanced) | Google Apps Script
+Python (pandas, numpy, PyMuPDF) | R (Tidyverse, Shiny)
+SQL | ChromaDB / Vector Stores
+Google Cloud Platform (Functions, Run, Storage, TTS) | Streamlit
+OpenAI & Gemini API Integration | RAG Pipeline Architecture
+KPI Dashboard Development | Workflow Automation
+Data Pipeline Design | Process Documentation
+Lean / Six Sigma | CLIA/GMP Compliance Systems
+Lab Operations Automation | Biotech Domain Intelligence
 
-5. REFRAME ALL OTHER EXPERIENCE for ops leadership:
-- WTPI: Emphasize "Oversaw Clinical Laboratory Testing of 1300+ monthly samples" + "leading a team of 9" + regulatory compliance
-- TTUHSCEP: Highlight "Led iPSC reprogramming project" + "cGMP compliance" + biobanking operations
-- IMSTEL: Focus on "Mentored 30 students" + cross-functional collaboration + project management
+CORE COMPETENCIES:
+Reorder so automation and data skills appear in column 1.
 
-6. CONDENSE PUBLICATIONS: 
-Just say "8 peer-reviewed publications in biomaterials, tissue engineering, and neuropsychiatry (available upon request)"
+AMAZON BULLETS:
+Keep all existing bullets. Keep LP Anchors blockquote as-is.
+Add one new bullet after the Ship Dock intelligence bullet:
 
-7. REMOVE OR MINIMIZE:
-- Projects section (integrate into experience if needed)
-- Certifications (move to end or remove non-critical ones)
+"Independently engineered a suite of Google Sheets and Apps 
+Script production tools deployed across active fulfillment 
+operations: Thrive PA review automation (narrative generation 
+from performance data), FORESIGHT volume allocation formula 
+(CART/FLATS split logic across paginated chute data), and 
+RTB Comment Generator (pandas-based UPH analysis with 
+rate-dilution logic for new-hire cohorts) — replacing entirely 
+manual workflows with structured, repeatable data pipelines."
 
-8. FORMAT:
-- Professional, ATS-friendly
-- Clean headers, standard fonts
-- Metrics/numbers bolded
-- 2 pages maximum
+VENTURES & TECHNICAL PROJECTS SECTION:
+Insert after Amazon role, before TTUHSCEP. Include exactly 
+these three entries pulled from PORTFOLIO_REVIEW.md — use 
+the verified tech stacks only, no inference:
 
-OUTPUT: Save as "Fabian_Lopez_Director_Ops_Biopharma.docx"
+1. LabOps.AI | Founder & Technical Lead | 2024 – Present
+- AI-native literature intelligence platform for 
+  biomanufacturing facilities targeting cell and gene therapy 
+  operators.
+- Architected end-to-end pipeline: bioRxiv/PubMed ingestion → 
+  Unpaywall PDF resolution → PyMuPDF parsing → ChromaDB vector 
+  storage → Gemini 2.5 Flash synthesis with structured JSON 
+  extraction of Critical Quality Attributes (CQAs) and Critical 
+  Process Parameters (CPPs).
+- Tech stack: Python 3.13, Gemini 2.5 Flash, ChromaDB, SQLite 
+  (WAL mode), PyMuPDF, Unpaywall API.
+- Pre-seed stage; literature intelligence layer production-ready.
 
-Make it ready to send to VP Ops / Director Manufacturing roles TODAY.
+2. biotech-intel | Engineer | 2024 – Present
+- Multi-source intelligence pipeline aggregating bioRxiv, 
+  PubMed, ClinicalTrials.gov, FDA CDER, and SEC Edgar filings 
+  into a unified daily briefing synthesized via GPT-4o-mini.
+- Bridges scientific publication tracking with regulatory and 
+  financial filings — rare cross-domain signal in biotech 
+  competitive intelligence.
+- Tech stack: Python, pandas, requests, OpenAI API, lxml.
+
+3. BLKPHXLABS AI_BRIEFING | Engineer | 2024 – Present
+- Serverless autonomous pipeline: Google Alerts → Gmail → 
+  GCP Cloud Function → Gemini script synthesis → MoviePy 
+  video production → cloud-hosted dashboard.
+- Demonstrates low-cost GCP orchestration pattern (Apps Script 
+  as scheduler, GCP as compute) for automated media generation.
+- Tech stack: GCP (Functions, Run, Storage, TTS), 
+  Google Apps Script, MoviePy, Gemini API.
+
+TTUHSCEP: Condense to 2–3 bullets. Prioritize: cGMP, iPSC 
+reprogramming, data pipelines, biobanking chain-of-custody. 
+Drop general research language.
+
+WTPI: Condense to 2–3 bullets. Lead with CLIA/COLA compliance 
+and 1,300+ samples/month. Keep LC/MS and NGS — technical 
+depth signals.
+
+IMSTEL: Reorder so 3D printer hardware modification bullet 
+(30% precision improvement) leads. Condense to 3 bullets max.
+
+PUBLICATIONS LINE:
+"PhD-level researcher with 8 peer-reviewed publications in 
+biomaterials and tissue engineering. Scientific depth applied 
+to AI pipeline architecture and regulated operations contexts. 
+Full technical portfolio: github.com/fabzy4L"
+
+════════════════════════════════════════
+FILE 2: FabianAlvarez_Master_Updated.md
+════════════════════════════════════════
+
+Copy from FabianPrimoResume2026.md. Apply only these changes 
+to the master — nothing else:
+
+1. Add "Ventures & Technical Projects" section between Amazon 
+   and TTUHSCEP with LabOps.AI entry only (same text as above).
+
+2. Add one bullet to Amazon experience (same Sheets/Apps Script 
+   bullet as above).
+
+3. Flag with a comment at the top of the file if the document 
+   exceeds 2 pages when estimated at 9.5pt Helvetica. 
+   Do not trim automatically — flag it for review.
+
+════════════════════════════════════════
+AFTER BOTH FILES:
+════════════════════════════════════════
+
+Update the File Index table in CLAUDE.md with both new files:
+- FabianAlvarez_Upwork_FreelanceProfile.md | Upwork freelance 
+  profile — ops automation + AI engineering positioning
+- FabianAlvarez_Master_Updated.md | Master resume updated with 
+  LabOps.AI venture entry and AppScript bullet
+
+All metrics must match the immutable facts table in CLAUDE.md 
+exactly. All tech stacks must match PORTFOLIO_REVIEW.md 
+TECH STACK VERIFIED fields exactly. Do not infer or add 
+technologies not confirmed in the review.
+
+Output: Confirm both files created and CLAUDE.md updated. 
+Do not print full file contents unless asked.

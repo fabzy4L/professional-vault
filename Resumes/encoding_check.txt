@@ -1,0 +1,30 @@
+=== FabianAlvarezPrimo_GATech_AcademicCV.pdf ===
+middle-dot U+00B7 present: True
+replacement char U+FFFD present: False
+arrow U+2192 present: True
+
+=== FabianAlvarezPrimo_GATech_CoverLetter.pdf ===
+middle-dot U+00B7 present: True
+replacement char U+FFFD present: False
+arrow U+2192 present: False
+
+=== FabianAlvarezPrimo_GATech_MissionValuesStatement.pdf ===
+middle-dot U+00B7 present: False
+replacement char U+FFFD present: False
+arrow U+2192 present: False
+
+=== FabianAlvarezPrimo_GATech_References.pdf ===
+middle-dot U+00B7 present: False
+replacement char U+FFFD present: False
+arrow U+2192 present: False
+
+=== FabianAlvarezPrimo_GATech_ResearchStatement.pdf ===
+middle-dot U+00B7 present: False
+replacement char U+FFFD present: False
+arrow U+2192 present: False
+
+=== FabianAlvarezPrimo_GATech_TeachingStatement.pdf ===
+middle-dot U+00B7 present: False
+replacement char U+FFFD present: False
+arrow U+2192 present: False
+
