@@ -52,16 +52,16 @@ Owns outbound dock operations (on-time departures, shipping-sorter recirculation
 ### Account Executive | DISH Network | 2023 – 2024
 
 - Built Tableau analytics to drive customer-retention strategy.
-- Won a company-wide award for the highest contracts sold during training; promoted to Account Executive, performing at >95% of company average.
+- Won a company-wide award for the highest contracts sold during training; promoted to Account Executive.
 
 ### Post-doctoral Research Fellow | Texas Tech University Health Sciences Center | El Paso, TX | 2022 – 2022
 
-- Ran biobanking operations covering sample intake, processing, controlled storage, and chain-of-custody documentation.
+- Ran post-mortem biobanking research operations covering sample intake, processing, controlled storage, and chain-of-custody documentation.
 - Led a cell-reprogramming project under **cGMP-compliant** protocols. Coordinated timelines and deliverables across clinical, molecular, and neuroscience teams.
 
 ### Clinical Laboratory Scientist & Supervisor | West Texas Pain Institute | El Paso, TX | 2021 – 2022
 
-- Supervised a team of **9** processing **1,300+ patient samples per month**, with full **CLIA and COLA** compliance and audit readiness.
+- Supervised a team of **9** scaling processing by 150%, averaging **1,300+ patient samples per month**, with full **CLIA and COLA** compliance and audit readiness.
 - Enforced OSHA protocols and documentation discipline. Operated and maintained LC/MS, immunoassay, and DNA sequencing instrumentation.
 - Ran the LIS (Stratus DX) and EMR data systems, keeping records accurate and compliant.
 
