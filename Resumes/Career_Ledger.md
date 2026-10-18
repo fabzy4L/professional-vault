@@ -58,6 +58,8 @@ Consolidates and reconciles facts previously scattered across `Amazon_Role_Conte
 | LOI+ score (new team, BHN) | 10.9 ("Strong") within first weeks |
 | Lab samples/month (WTPI) | 1,300+ |
 | Lab team size (WTPI) | 9 |
+| Lab processing scale-up (WTPI) | 150% (Fabian, 2026-10-18) |
+| Postdoc biobanking (TTUHSCEP) | post-mortem biobanking research operations (Fabian, 2026-10-18) |
 | Students mentored (IMSTEL) | 30+ |
 | 3D printer precision improvement | 30% |
 | Publications | 7 published, peer-reviewed (see Publications section — not 8) |
@@ -117,7 +119,7 @@ Tiered by strength, verified against actual git history and code, not README cla
 
 Consolidated from every reconciliation note found across this workspace. Nothing here should be silently resolved by picking a version — confirm before it appears in a submitted document.
 
-1. ~~**DISH Network 2023–2024 gap.**~~ **Resolved 2026-10-18: include** (Fabian's decision). First used in `FabianAlvarez_SpaceX_OperationsManager.md`. Still needed: exact start/end months.
+1. ~~**DISH Network 2023–2024 gap.**~~ **Resolved 2026-10-18: include** (Fabian's decision). First used in `FabianAlvarez_SpaceX_OperationsManager.md`. Still needed: exact start/end months. The ">95% of company average" claim was dropped by Fabian (2026-10-18); don't reuse it.
 2. **"Custom AI-Driven Recirculation Tool" claim.** Currently stated as fact in the official Q2 2026 Amazon Growth Plan (internal HR doc). GitHub evidence suggests it may be a colleague's tool. Worth clarifying directly with Amazon before it resurfaces in a promotion review, independent of any resume use.
 3. **Full publication list.** Need citations (author position, venue, year) for all 7. Blocks the academic-track (GATech-style) push specifically, and any resume claim more detailed than "7 peer-reviewed publications."
 4. **Under-review manuscript status.** ~5 years stale — confirm current status or drop the mention entirely.
